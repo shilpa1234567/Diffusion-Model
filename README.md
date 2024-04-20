@@ -1,1 +1,1 @@
-# Diffusion-Model
+#Stable Diffusion-Model
